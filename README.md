@@ -14,7 +14,3 @@ Acabei de finalizar meu segundo projeto, uma **calculadora no estilo iPhone**, o
 - **Função de cálculo personalizada** usando `eval()` para interpretar e executar expressões matemáticas complexas.
 
 Este projeto me proporcionou um entendimento mais profundo de como manipular entradas de usuário, tratar erros e melhorar a usabilidade de uma interface. Comentários e sugestões são sempre bem-vindos!
-
-## 🏷️ Tags:
-`JavaScript` `Regex` `WebDevelopment` `PortfolioProject` `CalculatorApp` `OpenSource` `DevSkills` `LearningByDoing` `CSS` `FrontendDevelopment` `UIUX` `GitHub` `MobileDesign`
-
